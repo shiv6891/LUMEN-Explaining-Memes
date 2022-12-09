@@ -1,5 +1,5 @@
 # LUMEN-Explaining-Memes
-Repository for "What do you MEME? Generating Explanations for Visual Semantic Role Labelling in Memes" @ AAAI-23
+Repository for <a href="https://arxiv.org/abs/2212.00715v1">"What do you MEME? Generating Explanations for Visual Semantic Role Labelling in Memes"</a> @ AAAI-23
 
 
 <p align="center">
