@@ -3,7 +3,7 @@ Repository for <a href="https://arxiv.org/abs/2212.00715v1">"What do you MEME? G
 
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/9869470/204370373-a7a092fd-5060-438a-b717-0bf8478f80a4.png">
+  <img width="400" src="https://user-images.githubusercontent.com/9869470/232623872-4369014c-4888-4284-bd38-301fe6f8a086.png">
 </p>
 
 <p align="center">
