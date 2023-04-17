@@ -703,10 +703,10 @@ for i in range(2):
     # generated_result
     
     resdf = pd.DataFrame.from_dict({'images': img_list, 'generated_result': generated_result})
-    sid_list = test_df["siddhant's explanations"].tolist()
-    tharun_list = test_df["tharun's explanations"].tolist()
-    resdf['sid_exp'] = sid_list
-    resdf['tharun_exp'] = tharun_list
+    A_list = test_df["A explanations"].tolist() #Annot: S
+    B_list = test_df["B explanations"].tolist() #Annot: T
+    resdf['A_exp'] = A_list
+    resdf['B_exp'] = B_list
     resdf.to_csv(os.path.join(exp_path, exp_name+'_GenTrue_exp'+mode+'.csv'), index=False)
     with open(os.path.join(exp_path, 'hyp'+mode+'.txt'), 'w+') as hf:
         hf.write('\n'.join(generated_result))
