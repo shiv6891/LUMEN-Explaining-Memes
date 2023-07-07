@@ -11,3 +11,8 @@ Repository for "What do you MEME? Generating Explanations for Visual Semantic Ro
 </p>
 
 ![image](https://user-images.githubusercontent.com/9869470/204369062-4c9355f4-39c3-4daa-8c27-9734884b927a.png)
+
+
+# DATASET:
+
+Full dataset can be downloaded from <a href="https://drive.google.com/file/d/1YSa7Yosd52w4_1fgvNpRoZwt8IgQ1EjO/view?usp=sharing">here</a>.
