@@ -8,3 +8,9 @@ Repository for <a href="https://arxiv.org/abs/2212.00715v1">"What do you MEME? G
 
 
 ![image](https://user-images.githubusercontent.com/9869470/204369062-4c9355f4-39c3-4daa-8c27-9734884b927a.png)
+
+
+
+# DATASET:
+
+Full dataset can be downloaded from <a href="https://drive.google.com/file/d/1qqADraY3m1btfBjkSWDEXMGHRa7e4pDR/view?usp=sharing">here</a>.
