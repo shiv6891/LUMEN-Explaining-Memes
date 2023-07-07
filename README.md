@@ -13,4 +13,4 @@ Repository for <a href="https://arxiv.org/abs/2212.00715v1">"What do you MEME? G
 
 # DATASET:
 
-Full dataset can be downloaded from <a href="https://drive.google.com/file/d/1qqADraY3m1btfBjkSWDEXMGHRa7e4pDR/view?usp=sharing">here</a>.
+Full dataset can be downloaded from <a href="https://drive.google.com/file/d/1YSa7Yosd52w4_1fgvNpRoZwt8IgQ1EjO/view?usp=sharing">here</a>.
